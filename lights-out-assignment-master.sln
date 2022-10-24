@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lights-out-assignment-master", "lights-out-assignment-master\lights-out-assignment-master.csproj", "{FE51AC95-BE7D-4EE1-8663-4B54E7E24BF6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE51AC95-BE7D-4EE1-8663-4B54E7E24BF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE51AC95-BE7D-4EE1-8663-4B54E7E24BF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE51AC95-BE7D-4EE1-8663-4B54E7E24BF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE51AC95-BE7D-4EE1-8663-4B54E7E24BF6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {150573F0-F1F2-4B25-B8AD-8C0E3920CA46}
+	EndGlobalSection
+EndGlobal
